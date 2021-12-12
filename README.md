@@ -1,6 +1,6 @@
 # temas-entrevistas
 
-<img align="center" src="https://thumbs.dreamstime.com/b/cute-mixed-breed-dog-posing-as-intellectual-against-dark-background-cute-dog-posing-as-intellectual-153873760.jpg" alt="spring" width="50%" height="50%"/>
+<img style="display: block; margin: 0 auto;" src="https://thumbs.dreamstime.com/b/cute-mixed-breed-dog-posing-as-intellectual-against-dark-background-cute-dog-posing-as-intellectual-153873760.jpg" alt="spring" width="50%" height="50%"/>
 
 <h3 align="center">Patrones:</h3>
 <a href="https://refactoring.guru/es/" target="_blank"><p align="left"> 
