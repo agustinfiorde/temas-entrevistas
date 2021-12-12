@@ -1,6 +1,6 @@
 # temas-entrevistas
 
-<img src="https://github.com/agustinfiorde/MegaChess/blob/master/img/UnitTests.png?raw=true" alt="spring" width="100%" height="100%"/></a>
+<img src="https://thumbs.dreamstime.com/b/cute-mixed-breed-dog-posing-as-intellectual-against-dark-background-cute-dog-posing-as-intellectual-153873760.jpg" alt="spring" width="100%" height="100%"/></a>
 
 Patrones (https://refactoring.guru/es/)
 DTO
