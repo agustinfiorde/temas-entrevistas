@@ -15,7 +15,7 @@ https://refactoring.guru/es/
   <li>Experto, Controller, Generic</li>
   <li>Patrones Creacionales (Singleton, Factory)</li>
   <li>Patrones Estructurales (Adapter, Decorator)</li>
-  <li>Patrones de Comportamiento (Interior, Observer, State, Strategy</li>
+  <li>Patrones de Comportamiento (Iterator, Observer, State, Strategy)</li>
 </ul>  
 
 
