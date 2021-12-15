@@ -67,6 +67,7 @@ https://refactoring.guru/es/
   <li>ORM y Entidades</li>
   <li>Hibernate o JPA o JDBC</li>
   <li>NoSQL vs SQL</li>
+  <li>H2 Database (https://www.baeldung.com/spring-boot-h2-database)</li>
 </ul>
 
 <h3 align="center">Conceptos:</h3>
