@@ -54,6 +54,7 @@ https://refactoring.guru/es/
   <li>Cache Distribuida</li>
   <li>Swagger</li>
   <li>Java Melody</li>
+  <li>Spring AOP (https://www.journaldev.com/2583/spring-aop-example-tutorial-aspect-advice-pointcut-joinpoint-annotations)</li>
 </ul>  
 
 <h3 align="center">Tests:</h3>
