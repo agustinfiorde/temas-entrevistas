@@ -23,6 +23,7 @@ https://refactoring.guru/es/
 <ul align="left">
   <li>Thread</li>
   <li>Pasaje por Referencia y Valor</li>
+  <li>Builder ( https://www.baeldung.com/lombok-builder ) </li>
   <li>.Equals vs ==</li>
   <li>String pull ->Literales String y asignación en espacio de memoria</li>
   <li>StringBuilder vs StringBuffer</li>
