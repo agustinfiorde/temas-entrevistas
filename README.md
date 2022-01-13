@@ -43,6 +43,7 @@ https://refactoring.guru/es/
 <h3 align="center">Spring:</h3>
 <ul align="left">
   <li>@Autowired</li>
+  <li>@Qualifier (https://www.arquitecturajava.com/spring-qualifier-utilizando-autowired/)</li>
   <li>@Bean (https://www.baeldung.com/spring-bean-scopes)</li>
   <li>@Component vs @Service</li>
   <li>@ControllerAdvice</li>
