@@ -88,6 +88,10 @@ https://refactoring.guru/es/
   <li>JWT vs oAuth</li>
   <li>Tomcat y WildFly</li>
   <li>Funciones Lambda</li>
+  <li>TDD</li>
+  <li>GitFlow</li>
+  <li>SOLID</li>
+  <li>Stateless vs Stateful ( https://medium.com/danish-mehmood/rest-api-masterclass-part-1-stateful-vs-stateless-services-baeb2ed1a058 ) </li>
 </ul> 
 
 <h3 align="center">JS & TS:</h3>
