@@ -23,6 +23,7 @@ https://refactoring.guru/es/
 <ul align="left">
   <li>Thread</li>
   <li>Pasaje por Referencia y Valor</li>
+  <li>.Equals vs ==</li>
   <li>String pull ->Literales String y asignación en espacio de memoria</li>
   <li>StringBuilder vs StringBuffer</li>
   <li>Logs para el Server</li>
@@ -48,6 +49,7 @@ https://refactoring.guru/es/
   <li>Spring vs SpringBoot</li>
   <li>Singleton vs Factory en Spring</li>
   <li>SOAP vs REST</li>
+  <li>REST Concept ( https://restfulapi.net/ ) </li>
   <li>Inyección de dependencias</li>
   <li>Maven, Gradel</li>
   <li>Jar vs War</li>
