@@ -91,6 +91,8 @@ https://refactoring.guru/es/
   <li>TDD</li>
   <li>GitFlow</li>
   <li>SOLID</li>
+  <li>V8</li>
+  <li>Compilador o Transpilador?</li>
   <li>Stateless vs Stateful ( https://medium.com/danish-mehmood/rest-api-masterclass-part-1-stateful-vs-stateless-services-baeb2ed1a058 ) </li>
 </ul> 
 
@@ -103,7 +105,6 @@ https://refactoring.guru/es/
   <li>RxJs</li>
   <li>NgRx</li>
   <li>NPM vs NPX</li>
-  <li>V8</li>
 </ul>  
 
 <h3 align="center">Web:</h3>
