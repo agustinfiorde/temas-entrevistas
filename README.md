@@ -115,19 +115,22 @@ https://refactoring.guru/es/
 <h3 align="center">Angular:</h3>
 <ul align="left">
   <li>Comunicación entre Componentes</li>
-  <li>Lazy Loading</li>
   <li>Ciclo de vida de los componentes</li>
   <li>Class decorator, Class Field Decorator</li>
-  <li>Partes NgModule ( https://angular.io/api/core/NgModule )</li>
   <li>HTML, Text interpolación, Structural Directives (ngIf), Template Fragments)</li>
   <li>Directivas de Atributos</li>
   <li>Properties Binding</li>
+  <li>Partes NgModule ( https://angular.io/api/core/NgModule )</li>
   <li>Inyección de Dependencia (Providers, @Injectable vs @Inject, Constructor )</li>
   <li>@Optional vs @Self vs @SkipSelf vs @Host ( https://medium.com/frontend-coach/self-or-optional-host-the-visual-guide-to-angular-di-decorators-73fbbb5c8658 )</li>
+  <li>Lazy Loading</li>
+  <li>Interceptors</li>
+  <li>Guards</li>
+  <li>Librerias Curstom Internas y externas</li>
   <li>Components Selectors ( https://blog.knoldus.com/different-types-of-component-selectors-in-angular/#:~:text=The%20selector%20is%20a%20property,number%20of%20third%2Dparty%20packages. ) </li>
-  <li>Microfronts</li>
   <li>JIT vs AOT ( https://levelup.gitconnected.com/just-in-time-jit-and-ahead-of-time-aot-compilation-in-angular-8529f1d6fa9d )</li>
   <li>E2e</li>
+  <li>Microfronts</li>
 </ul>  
 
 <h3 align="center">React:</h3>
