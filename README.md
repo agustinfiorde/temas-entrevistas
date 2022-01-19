@@ -122,7 +122,7 @@ https://refactoring.guru/es/
   <li>Directivas de Atributos</li>
   <li>Properties Binding</li>
   <li>Partes NgModule ( https://angular.io/api/core/NgModule )</li>
-  <li>Inyección de Dependencia (Providers, @Injectable vs @Inject, Constructor )</li>
+  <li>Inyección de Dependencia (Providers(ngModule.Provider, Component.Provider, Component.viewProvider), @Injectable vs @Inject, Constructor )</li>
   <li>@Optional vs @Self vs @SkipSelf vs @Host ( https://medium.com/frontend-coach/self-or-optional-host-the-visual-guide-to-angular-di-decorators-73fbbb5c8658 )</li>
   <li>Lazy Loading</li>
   <li>Interceptors</li>
