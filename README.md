@@ -124,6 +124,7 @@ https://refactoring.guru/es/
   <li>Partes NgModule ( https://angular.io/api/core/NgModule )</li>
   <li>Inyección de Dependencia (Providers(ngModule.Provider, Component.Provider, Component.viewProvider [https://codecraft.tv/courses/angular/dependency-injection-and-providers/ngmodule-providers-vs-component-providers-vs-component-viewproviders/] ), @Injectable vs @Inject, Constructor )</li>
   <li>@Optional vs @Self vs @SkipSelf vs @Host ( https://medium.com/frontend-coach/self-or-optional-host-the-visual-guide-to-angular-di-decorators-73fbbb5c8658 )</li>
+  <li>oPaqueToken</li>
   <li>Lazy Loading</li>
   <li>Interceptors</li>
   <li>Guards</li>
