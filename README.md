@@ -10,7 +10,7 @@
   <li>MVC</li>
   <li>MVVM</li>
   <li>Experto, Controller, Generic</li>
-  <li>Patrones Creacionales (Singleton, Factory)</li>
+  <li>Patrones Creacionales (Singleton, Factory, Prototype)</li>
   <li>Patrones Estructurales (Adapter, Decorator)</li>
   <li>Patrones de Comportamiento (Iterator, Observer, State, Strategy)</li>
 </ul>  
