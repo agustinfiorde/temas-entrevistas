@@ -2,9 +2,8 @@
 
 <img style="text-align: center;" src="https://thumbs.dreamstime.com/b/cute-mixed-breed-dog-posing-as-intellectual-against-dark-background-cute-dog-posing-as-intellectual-153873760.jpg" alt="spring" width="50%" height="50%"/>
 
-<h3 align="center">Patrones:</h3>
 <a href="https://refactoring.guru/es/" target="_blank"><p align="left"> 
-https://refactoring.guru/es/
+<h3 align="center">Patrones:</h3>
 </p></a>
 
 <ul align="left">
