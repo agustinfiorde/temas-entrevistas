@@ -121,10 +121,7 @@
   <li>HTML, Text interpolación, Structural Directives (ngIf), Template Fragments)</li>
   <li>Directivas de Atributos</li>
   <li>Properties Binding</li>
-  
-  
   <li><a href="https://angular.io/api/core/NgModule">Partes NgModule</a></li>
-  <li> (  )</li>
   <li>Inyección de Dependencia (Providers(ngModule.Provider, Component.Provider, Component.viewProvider [https://codecraft.tv/courses/angular/dependency-injection-and-providers/ngmodule-providers-vs-component-providers-vs-component-viewproviders/] ), @Injectable vs @Inject, Constructor )</li>
   <li>@Optional vs @Self vs @SkipSelf vs @Host ( https://medium.com/frontend-coach/self-or-optional-host-the-visual-guide-to-angular-di-decorators-73fbbb5c8658 )</li>
   <li>oPaqueToken</li>
