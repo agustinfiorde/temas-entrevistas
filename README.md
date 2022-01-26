@@ -2,9 +2,9 @@
 
 <img style="text-align: center;" src="https://thumbs.dreamstime.com/b/cute-mixed-breed-dog-posing-as-intellectual-against-dark-background-cute-dog-posing-as-intellectual-153873760.jpg" alt="spring" width="50%" height="50%"/>
 
-<a href="https://refactoring.guru/es/" target="_blank"><p align="left"> 
+<a href="https://refactoring.guru/es/" target="_blank">
 <h3 align="center">Patrones:</h3>
-</p></a>
+</a>
 
 <ul align="left">
   <li>DTO</li>
