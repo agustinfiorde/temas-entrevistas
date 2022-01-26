@@ -47,7 +47,7 @@
   <li>@Component vs @Service</li>
   <li>@ControllerAdvice</li>
   <li>Spring vs SpringBoot</li>
-  <li>Singleton vs Factory en Spring</li>
+  <li>Singleton vs Prototype en Spring</li>
   <li>SOAP vs REST</li>
   
   
