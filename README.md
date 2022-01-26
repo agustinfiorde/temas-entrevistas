@@ -20,7 +20,7 @@
 <ul align="left">
   <li>Thread</li>
   <li>Pasaje por Referencia y Valor</li>
-  <li>Builder ( https://www.baeldung.com/lombok-builder ) </li>
+  <li><a href="https://www.baeldung.com/lombok-builder">Builder</a></li>
   <li>.Equals vs ==</li>
   <li>String pool ->Literales String y asignación en espacio de memoria</li>
   <li>StringBuilder vs StringBuffer</li>
@@ -41,21 +41,24 @@
 <h3 align="center">Spring:</h3>
 <ul align="left">
   <li>@Autowired</li>
-  <li>@Qualifier (https://www.arquitecturajava.com/spring-qualifier-utilizando-autowired/)</li>
-  <li>@Bean (https://www.baeldung.com/spring-bean-scopes)</li>
+  <li><a href="https://www.arquitecturajava.com/spring-qualifier-utilizando-autowired/">Qualifier</a></li>
+  
+  <li><a href="https://www.baeldung.com/spring-bean-scopes">@Bean</a></li>
   <li>@Component vs @Service</li>
   <li>@ControllerAdvice</li>
   <li>Spring vs SpringBoot</li>
   <li>Singleton vs Factory en Spring</li>
   <li>SOAP vs REST</li>
-  <li>REST Concept ( https://restfulapi.net/ ) </li>
+  
+  
+  <li><a href="https://restfulapi.net/">REST Concept</a></li>
   <li>Inyección de dependencias</li>
   <li>Maven, Gradel</li>
   <li>Jar vs War</li>
   <li>Cache Distribuida</li>
   <li>Swagger</li>
   <li>Java Melody</li>
-  <li>Spring AOP (https://www.journaldev.com/2583/spring-aop-example-tutorial-aspect-advice-pointcut-joinpoint-annotations)</li>
+  <li><a href="https://www.journaldev.com/2583/spring-aop-example-tutorial-aspect-advice-pointcut-joinpoint-annotations">Spring AOP</a></li>
 </ul>  
 
 <h3 align="center">Tests:</h3>
@@ -69,7 +72,7 @@
   <li>ORM y Entidades</li>
   <li>Hibernate o JPA o JDBC</li>
   <li>NoSQL vs SQL</li>
-  <li>H2 Database (https://www.baeldung.com/spring-boot-h2-database)</li>
+  <li><a href="https://www.baeldung.com/spring-boot-h2-database">H2 Database</a></li>
 </ul>
 
 <h3 align="center">Conceptos:</h3>
@@ -90,7 +93,7 @@
   <li>SOLID</li>
   <li>V8</li>
   <li>Compilador o Transpilador?</li>
-  <li>Stateless vs Stateful ( https://medium.com/danish-mehmood/rest-api-masterclass-part-1-stateful-vs-stateless-services-baeb2ed1a058 ) </li>
+  <li><a href="https://medium.com/danish-mehmood/rest-api-masterclass-part-1-stateful-vs-stateless-services-baeb2ed1a058">Stateless vs Stateful</a></li>
 </ul> 
 
 <h3 align="center">JS & TS:</h3>
@@ -118,16 +121,19 @@
   <li>HTML, Text interpolación, Structural Directives (ngIf), Template Fragments)</li>
   <li>Directivas de Atributos</li>
   <li>Properties Binding</li>
-  <li>Partes NgModule ( https://angular.io/api/core/NgModule )</li>
+  
+  
+  <li><a href="https://angular.io/api/core/NgModule">Partes NgModule</a></li>
+  <li> (  )</li>
   <li>Inyección de Dependencia (Providers(ngModule.Provider, Component.Provider, Component.viewProvider [https://codecraft.tv/courses/angular/dependency-injection-and-providers/ngmodule-providers-vs-component-providers-vs-component-viewproviders/] ), @Injectable vs @Inject, Constructor )</li>
   <li>@Optional vs @Self vs @SkipSelf vs @Host ( https://medium.com/frontend-coach/self-or-optional-host-the-visual-guide-to-angular-di-decorators-73fbbb5c8658 )</li>
   <li>oPaqueToken</li>
   <li>Lazy Loading</li>
   <li>Interceptors</li>
   <li>Guards</li>
-  <li>Librerias Curstom Internas y externas</li>
-  <li>Components Selectors ( https://blog.knoldus.com/different-types-of-component-selectors-in-angular/#:~:text=The%20selector%20is%20a%20property,number%20of%20third%2Dparty%20packages. ) </li>
-  <li>JIT vs AOT ( https://levelup.gitconnected.com/just-in-time-jit-and-ahead-of-time-aot-compilation-in-angular-8529f1d6fa9d )</li>
+  <li>Librerias Custom Internas y externas</li>
+  <li><a href="https://blog.knoldus.com/different-types-of-component-selectors-in-angular/#:~:text=The%20selector%20is%20a%20property,number%20of%20third%2Dparty%20packages.">Components Selectors</a></li>  
+  <li><a href="https://levelup.gitconnected.com/just-in-time-jit-and-ahead-of-time-aot-compilation-in-angular-8529f1d6fa9d">JIT vs AOT</a></li>
   <li>E2e</li>
   <li>Microfronts</li>
 </ul>  
