@@ -49,8 +49,7 @@
   <li>Spring vs SpringBoot</li>
   <li>Singleton vs Prototype en Spring</li>
   <li>SOAP vs REST</li>
-  
-  
+  <li><a href="https://www.apascualco.com/spring-boot/spring-transactional/">@Transactional</a></li>
   <li><a href="https://restfulapi.net/">REST Concept</a></li>
   <li>Inyección de dependencias</li>
   <li>Maven, Gradel</li>
