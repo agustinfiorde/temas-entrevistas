@@ -121,13 +121,14 @@
   <li>Directivas de Atributos</li>
   <li>Properties Binding</li>
   <li><a href="https://angular.io/api/core/NgModule">Partes NgModule</a></li>
-  <li>Inyección de Dependencia (Providers(ngModule.Provider, Component.Provider, Component.viewProvider [https://codecraft.tv/courses/angular/dependency-injection-and-providers/ngmodule-providers-vs-component-providers-vs-component-viewproviders/] ), @Injectable vs @Inject, Constructor )</li>
-  <li>@Optional vs @Self vs @SkipSelf vs @Host ( https://medium.com/frontend-coach/self-or-optional-host-the-visual-guide-to-angular-di-decorators-73fbbb5c8658 )</li>
+  <li><a href="https://medium.com/frontend-coach/self-or-optional-host-the-visual-guide-to-angular-di-decorators-73fbbb5c8658/">I@Optional vs @Self vs @SkipSelf vs @Host</a></li>
+  <li><a href="https://codecraft.tv/courses/angular/dependency-injection-and-providers/ngmodule-providers-vs-component-providers-vs-component-viewproviders/">Inyección de Dependencia (Providers(ngModule.Provider, Component.Provider, Component.viewProvider)</a></li>
   <li>oPaqueToken</li>
   <li>Lazy Loading</li>
   <li>Interceptors</li>
   <li>Guards</li>
   <li>Librerias Custom Internas y externas</li>
+  <li><a href="https://stackoverflow.com/questions/69604976/angular-form-group-vs-form-control-and-form-builder-in-reactive-forms">FormGroup and Control vs Form Builder</a></li>
   <li><a href="https://blog.knoldus.com/different-types-of-component-selectors-in-angular/#:~:text=The%20selector%20is%20a%20property,number%20of%20third%2Dparty%20packages.">Components Selectors</a></li>  
   <li><a href="https://levelup.gitconnected.com/just-in-time-jit-and-ahead-of-time-aot-compilation-in-angular-8529f1d6fa9d">JIT vs AOT</a></li>
   <li>E2e</li>
