@@ -139,7 +139,6 @@
 <ul align="left">
   <li>Functional Component vs Class Component</li>
   <li>Ciclo de Vida de los componentes</li>
-  <li>Hooks</li>
   <li>Routing</li>
   <li>Providers y Context vs Reducer</li>
   <li>ReactQuery</li>
